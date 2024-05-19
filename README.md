@@ -12,5 +12,6 @@ The elbow method tests a differing number of cluster centers, taking the sum-of-
 For this dataset, a k value of 4 is chosen.
 
 Principal Component Analysis, or PCA for short, reduces dimensionality of the data. This may lead to more desireable grouping. In this case, the data is reduced to 3 principal components.
+(additional info source: https://365datascience.com/tutorials/python-tutorials/principal-components-analysis/)
 
 Upon comparison, although original complexity is lost, the resulting cluster plots for the original and PCA data show slightly better clustering with the use of PCA.
